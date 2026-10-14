@@ -1,20 +1,4 @@
-# 📡 Simulation d'un réseau mobile 2G GSM avec Atoll — Cas de Vakpossito (Lomé)
-
-> **Cours :** 2INF1521 — Réseaux Mobiles
-> **Établissement :** Université de Lomé — École Polytechnique de Lomé (EPL)
-> **Parcours :** Licence Professionnelle — Sciences et Technologies — Informatique
-> **Spécialité :** Systèmes et Réseaux Informatiques
-> **Année universitaire :** 2024-2025
-> **Chargé du cours :** Dr MAO
-
-## 👥 Auteurs
-
-| Étudiant | Nom |
-|---|---|
-| Participant 1 | AKAMA Kodjovi Jean-Hugues |
-| Participant 2 | TSIKPLONOU Ulrich Kékéli |
-
----
+# 📡 Simulation d'un réseau mobile 2G GSM avec Atoll —  (Lomé)
 
 ## 📑 Table des matières
 
